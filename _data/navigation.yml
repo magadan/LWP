@@ -22,6 +22,10 @@
   link: /
   new_window: true
   highlight: false
+- name: Sala de Treinamento
+  link: /
+  new_window: true
+  highlight: false
 - name: Fale com nossos Consultores
   link: /
   new_window: true
