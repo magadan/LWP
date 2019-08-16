@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: LGPD para Wordpress
+url: "http://www.lgpd-wp.com.br"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
+description: Adequação completa da nova lei LGPD para blogs e aplicações em Wordpress.
+author: lgpd-wp
+  name: LGPD-Wordpress
+  email: suporte@lgpd-wp.com.br
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: LGDP para Wordpress
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
