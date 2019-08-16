@@ -3,13 +3,13 @@
 
 title: LGPD para Wordpress
 url: "http://www.lgpd-wp.com.br"
-baseurl:
+baseurl: http://www.lgpd-wp.com.br
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /lgpdwp.png
 description: Adequação completa da nova lei LGPD para blogs e aplicações em Wordpress.
 author: lgpdwp
   name: LGPD-Wordpress
