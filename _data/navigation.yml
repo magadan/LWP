@@ -4,7 +4,7 @@
   highlight: false
 - name: Conheça a Lei
   link: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm
-  new_window: false
+  new_window: true
   highlight: false
 - name: Blog
   link: /blog/
