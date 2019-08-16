@@ -11,10 +11,10 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Adequação completa da nova lei LGPD para blogs e aplicações em Wordpress.
-author: lgpd-wp
+author: lgpdwp
   name: LGPD-Wordpress
   email: suporte@lgpd-wp.com.br
-  twitter: # twitter username without the @ symbol
+  twitter: lgpd-wp
 social:
   name: LGDP para Wordpress
   links:
