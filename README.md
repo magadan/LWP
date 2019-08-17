@@ -1,3 +1,2 @@
   # LWP
-
-Marketing site template for Jekyll. 
+Meu novo projeto
