@@ -1,3 +1,7 @@
+- name: Recursos
+  link: /recursos/
+  new_window: false
+  highlight: false
 - name: Valores
   link: /pricing/
   new_window: false
