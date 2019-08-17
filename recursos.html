@@ -2,9 +2,9 @@
 title: Recursos
 description: Todos os Recursos contemplados de nossa plataforma.
 ---
-<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
+<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_lista_recursosmembers/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
 <ul class="staff">
-	{% for person in site.staff_members %}
+	{% for person in site.lista_recursos %}
 		<li>
 			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
 			<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter }}">{{ person.name }}</a></div>
